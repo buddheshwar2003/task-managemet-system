@@ -121,13 +121,13 @@ If PostgreSQL is running on a different port, change `5432`.
 Clone the project:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/buddheshwar2003/task-managemet-system.git
 ```
 
 Go into the project:
 
 ```bash
-cd task-management
+cd task-managemet-system
 ```
 
 Run the application:
